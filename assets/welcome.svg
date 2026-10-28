@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="280" viewBox="0 0 960 280" role="img" aria-labelledby="title"><title id="title">Liliwqt — code, curiosity and a little pink</title><defs><pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="5" cy="5" r="1.2" fill="#e9a6b9" opacity=".35"/></pattern></defs><rect x="1" y="1" width="958" height="278" rx="24" fill="#fce8ee" stroke="#e9a1b6" stroke-width="2"/>
+<rect x="1" y="1" width="958" height="278" rx="24" fill="url(#dots)"/>
+<rect x="21" y="21" width="918" height="238" rx="14" fill="#fffaf5" stroke="#e9b6c3" stroke-dasharray="3 7"/>
+<path d="M735 21h95v238h-95z" fill="#f9d7e1" opacity=".6"/>
+<rect x="653" y="74" width="222" height="147" rx="12" fill="#edbed0" transform="rotate(5 764 147)"/>
+<rect x="644" y="64" width="222" height="147" rx="12" fill="#fff7fa" stroke="#ce7897" stroke-width="2"/>
+<path d="M644 94h222" stroke="#e8b4c6"/>
+<g fill="#e29bb3"><circle cx="661" cy="79" r="4"/><circle cx="675" cy="79" r="4"/><circle cx="689" cy="79" r="4"/></g><text x="58" y="72" font-family="'Trebuchet MS',Verdana,Arial,sans-serif" font-size="13" font-weight="700" fill="#9e526c" letter-spacing="3">A TINY CORNER OF THE INTERNET</text><text x="54" y="153" font-family="Georgia,serif" font-style="italic" font-size="78" fill="#a43e62">Liliwqt</text><text x="59" y="191" font-family="'Trebuchet MS',Verdana,Arial,sans-serif" font-size="22" font-weight="400" fill="#74384e" >code, curiosity &amp; a little pink.</text><text x="59" y="232" font-family="'Trebuchet MS',Verdana,Arial,sans-serif" font-size="12" font-weight="700" fill="#9e526c" letter-spacing="2.4">WEB  /  MOBILE  /  AI  /  GAMES</text><text x="702" y="158" font-family="'Trebuchet MS',Verdana,Arial,sans-serif" font-size="40" font-weight="700" fill="#b65075" >&lt; / &gt;</text><g transform="translate(816 65) scale(0.86)" fill="#df6684" stroke="#b94266" stroke-width="2.5" stroke-linejoin="round">
+    <path d="M0 0C-38-36-45 4-28 18L0 6C38 36 45-4 28-18Z"/><ellipse rx="10" ry="12" fill="#ee98ae"/>
+    <path d="M-9 7L-22 34L-6 28L1 35L7 9M10 8L26 29L13 26L6 34L1 11" fill="#ee98ae"/>
+    <ellipse rx="10" ry="12" fill="#ee98ae"/></g><text x="715" y="244" font-family="'Trebuchet MS',Verdana,Arial,sans-serif" font-size="12" font-weight="400" fill="#9e526c" font-style="italic">made with care</text></svg>
