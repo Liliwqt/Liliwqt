@@ -29,6 +29,8 @@ Tap a project to explore.
 
 <p align="center"><img src="./assets/hello-kitty-love.gif" width="88" alt="Hello Kitty cheering on the featured project" /></p>
 
+<a href="https://github.com/Liliwqt/jg-21264r-reverse-engineering"><img src="./assets/repo-rc-car.svg" width="100%" alt="JG-21264R RC Car — reverse-engineering a salvaged RC car board to reuse its motor drivers with an ESP32-S3. ESP-IDF, motors, hardware investigation. Open repository." /></a>
+
 <a href="https://defense-simulator.onrender.com"><img src="./assets/repo-defense.svg" width="100%" alt="AI Defense Arena — practice a research defense with four AI reviewers and teammates. Python, FastAPI, React, TypeScript. Private repository. Open web app." /></a>
 
 <table>
@@ -123,6 +125,7 @@ Thanks for stopping by.
 
 | if you're here for… | unwrap this one |
 | :--- | :--- |
+| reverse engineering | [JG-21264R RC Car](https://github.com/Liliwqt/jg-21264r-reverse-engineering) — hardware investigation |
 | AI and research | [AI Defense Arena](https://defense-simulator.onrender.com) — private repository |
 | mobile experiences | [E-Menu](https://github.com/Liliwqt/E-Menu) |
 | restaurant insights | [E-Menu Portal](https://github.com/Liliwqt/E-Menu-Web) |
